@@ -1,0 +1,14 @@
+{
+    "name": "tps-s4-web",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Exercice3.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "readline-sync": "^1.4.10"
+    }
+  }
